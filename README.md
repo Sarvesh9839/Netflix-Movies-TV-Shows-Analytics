@@ -17,12 +17,6 @@ Table of Contents
 
 4.3. Data Analysis and Visualization
 
-About the project
-This project is a self-study project, its main objective is to help me practice on a real dataset and strength my analysis skills in Python.
-
-It is about cleaning and analyzing Netflix movies and tv shows data, and getting insights about the countries where they were filmed, their ratings and release years.
-
-The detailed notebook of the project is here.
 
 
 
